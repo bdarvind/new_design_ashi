@@ -1,0 +1,1124 @@
+2021-05-21 17:22:54 initiator_id=9311252103&pan_number=IQUPS9643P&mobile=6395836154&first_name=rajendra&last_name=kumar&email=rajendrasingh08224@gmail.com&residence_address=%7B%22line%22%3A%22matsena+firozabad%22%2C%22city%22%3A%22shikohabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22makkhanpur%22%7D&dob=1991-06-05&shop_name=io
+
+2021-05-21 17:22:54 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-05-21 17:23:16 initiator_id=9311252103&pan_number=IQUPS9643P&mobile=6395836154&first_name=rajendra&last_name=singh&email=rajendrasingh08224@gmail.com&residence_address=%7B%22line%22%3A%22matsena+firozabad%22%2C%22city%22%3A%22shikohabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22makkhanpur%22%7D&dob=1991-06-05&shop_name=io
+
+2021-05-21 17:23:16 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-05-21 17:39:51 initiator_id=9311252103&pan_number=BFMPY2655D&mobile=8868098859&first_name=jitendra&last_name=yadav&email=helpashiweb00@gmail.com&residence_address=%7B%22line%22%3A%22jevada%22%2C%22city%22%3A%22shikohabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22makkhanpur%22%7D&dob=1999-01-01&shop_name=ashi
+
+2021-05-21 17:39:51 {"response_status_id":-1,"data":{"user_code":"18821066","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-21 17:40:46 initiator_id=9311252103&pan_number=BFMPY2655D&mobile=8868098859&first_name=jitendra&last_name=yadav&email=helpashiweb00@gmail.com&residence_address=%7B%22line%22%3A%22jevada%22%2C%22city%22%3A%22shikohabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22makkhanpur%22%7D&dob=1999-01-01&shop_name=ashi
+
+2021-05-21 17:40:47 {"response_status_id":-1,"data":{"user_code":"18821066","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-21 18:04:09 initiator_id=9311252103&pan_number=JVTPK0485G&mobile=8511487466&first_name=JAYPRAKASH&last_name=KUSHWAH&email=ak@gmail.com&residence_address=%7B%22line%22%3A%22DONKELI%22%2C%22city%22%3A%22MAKKHANPUR%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22MAKKHANPUR%22%7D&dob=2002-07-21&shop_name=HAKIM
+
+2021-05-21 18:04:11 {"response_status_id":-1,"data":{"user_code":"15232930","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-21 18:05:00 initiator_id=9311252103&pan_number=JVTPK0485G&mobile=8511487466&first_name=JAYPRAKASH&last_name=KUSHWAH&email=ak@gmail.com&residence_address=%7B%22line%22%3A%22DONKELI%22%2C%22city%22%3A%22MAKKHANPUR%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22MAKKHANPUR%22%7D&dob=2002-07-21&shop_name=HAKIM
+
+2021-05-21 18:05:00 {"response_status_id":-1,"data":{"user_code":"15232930","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-21 21:34:30 initiator_id=9311252103&pan_number=JVTPK0485G&mobile=8511487466&first_name=jayprakash&last_name= kushwah&email=ak@gmail.com&residence_address=%7B%22line%22%3A%226+DONKELI+%22%2C%22city%22%3A%22Firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22Firozabad%22%2C%22area%22%3A%22Firozabad%22%7D&dob=2002-07-21&shop_name=aws
+
+2021-05-21 21:34:30 {"response_status_id":-1,"data":{"user_code":"15232930","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-21 21:34:54 initiator_id=9311252103&pan_number=JVTPK0485G&mobile=8511487460&first_name=jayprakash&last_name= kushwah&email=ak@gmail.com&residence_address=%7B%22line%22%3A%226+DONKELI+%22%2C%22city%22%3A%22Firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22Firozabad%22%2C%22area%22%3A%22Firozabad%22%7D&dob=2002-07-21&shop_name=aws
+
+2021-05-21 21:34:57 {"response_status_id":-1,"data":{"user_code":"18821074","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-21 21:34:59 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821074","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-21 22:18:39 initiator_id=9311252103&pan_number=HLEPS3327A&mobile=8868098859&first_name=RAMA SHANKAR&last_name=KUMAR&email=aws@gmail.com&residence_address=%7B%22line%22%3A%22JEVADA%22%2C%22city%22%3A%22SHIKOHABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1996-02-10&shop_name=AWS
+
+2021-05-21 22:18:43 {"response_status_id":-1,"data":{"user_code":"18821066","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-21 22:19:46 initiator_id=9311252103&pan_number=HLEPS3327A&mobile=8868098860&first_name=RAMA SHANKAR&last_name=KUMAR&email=aws@gmail.com&residence_address=%7B%22line%22%3A%22JEVADA%22%2C%22city%22%3A%22SHIKOHABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1996-02-10&shop_name=AWS
+
+2021-05-21 22:19:50 {"response_status_id":-1,"data":{"user_code":"18821075","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-21 22:19:52 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821075","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-21 22:56:30 initiator_id=9311252103&pan_number=DXLPK4056D&mobile=6395836154&first_name=Vinod&last_name=Kumar&email=RAJENDRASINGH08225@GMAIL.COM&residence_address=%7B%22line%22%3A%22Nagla+pransukh%22%2C%22city%22%3A%22Matsena%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22Firozabad%22%2C%22area%22%3A%22Makhanpur%22%7D&dob=1979-01-01&shop_name=Rajendra banking center
+
+2021-05-21 22:56:37 {"response_status_id":-1,"data":{"user_code":"18821076","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-21 22:56:38 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821076","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-22 12:21:54 initiator_id=9311252103&pan_number=KLBPS2056G&mobile=7895061963&first_name=Bharat&last_name=singh&email=Anshulyada64@gmail.com&residence_address=%7B%22line%22%3A%22firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2000-06-15&shop_name=bharat janseva kendra
+
+2021-05-22 12:21:54 {"response_status_id":-1,"data":{"user_code":"15233095","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-22 12:22:19 initiator_id=9311252103&pan_number=KLBPS2056G&mobile=7895061962&first_name=Bharat&last_name=singh&email=Anshulyada64@gmail.com&residence_address=%7B%22line%22%3A%22firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2000-06-15&shop_name=bharat janseva kendra
+
+2021-05-22 12:22:21 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-05-22 12:23:02 initiator_id=9311252103&pan_number=KLBPS2056F&mobile=7895061962&first_name=Bharat&last_name=singh&email=Anshulyada64@gmail.com&residence_address=%7B%22line%22%3A%22firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2000-06-15&shop_name=bharat janseva kendra
+
+2021-05-22 12:23:04 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-05-22 12:45:55 initiator_id=9311252103&pan_number=LYWPS5354N&mobile=7279043984&first_name=Vishnu dev&last_name=sharma&email=rajbirsharma750s@gmail.com&residence_address=%7B%22line%22%3A%22lakhisarai+bihar%22%2C%22city%22%3A%22lakhisarai%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22811112%22%2C%22district%22%3A%22lakhisarai%22%2C%22area%22%3A%22lakhisarai%22%7D&dob=1967-01-01&shop_name=aws
+
+2021-05-22 12:45:56 {"response_status_id":-1,"data":{"user_code":"18821071","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-22 12:46:18 initiator_id=9311252103&pan_number=LYWPS5354N&mobile=7279043985&first_name=Vishnu dev&last_name=sharma&email=rajbirsharma750s@gmail.com&residence_address=%7B%22line%22%3A%22lakhisarai+bihar%22%2C%22city%22%3A%22lakhisarai%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22811112%22%2C%22district%22%3A%22lakhisarai%22%2C%22area%22%3A%22lakhisarai%22%7D&dob=1967-01-01&shop_name=aws
+
+2021-05-22 12:46:20 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-05-22 12:47:42 initiator_id=9311252103&pan_number=LYWPS5354N&mobile=7279043985&first_name=Vishnu dev&last_name=sharma&email=rajbirsharma750s@gmail.com&residence_address=%7B%22line%22%3A%22lakhisarai+bihar%22%2C%22city%22%3A%22lakhisarai%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22811112%22%2C%22district%22%3A%22lakhisarai%22%2C%22area%22%3A%22lakhisarai%22%7D&dob=1967-01-01&shop_name=aws
+
+2021-05-22 12:47:42 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-05-22 12:48:14 initiator_id=9311252103&pan_number=LYWPS5354G&mobile=7279043985&first_name=Vishnu dev&last_name=sharma&email=rajbirsharma750s@gmail.com&residence_address=%7B%22line%22%3A%22lakhisarai+bihar%22%2C%22city%22%3A%22lakhisarai%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22811112%22%2C%22district%22%3A%22lakhisarai%22%2C%22area%22%3A%22lakhisarai%22%7D&dob=1967-01-01&shop_name=aws
+
+2021-05-22 12:48:17 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-05-22 13:06:17 initiator_id=9311252103&pan_number=BSSPJ5359N&mobile=7037084305&first_name=SURBHI&last_name=JAIN&email=nikkionlinez51@gmail.com&residence_address=%7B%22line%22%3A%22AGRA%22%2C%22city%22%3A%22AGRA%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282006%22%2C%22district%22%3A%22AGRA%22%2C%22area%22%3A%22AGRA%22%7D&dob=1994-11-21&shop_name=AWS
+
+2021-05-22 13:06:19 {"response_status_id":-1,"data":{"user_code":"18821077","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-22 13:06:21 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821077","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-22 13:51:47 initiator_id=9311252103&pan_number=EXMPD1523A&mobile=7279043985&first_name=LALITA&last_name=DEVI&email=rajbirsharma750s@gmail.com&residence_address=%7B%22line%22%3A%22LAKHISARAI%22%2C%22city%22%3A%22LAKHISARAI%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22811112%22%2C%22district%22%3A%22LAKHISARAI%22%2C%22area%22%3A%22LAKHISARAI%22%7D&dob=1985-01-01&shop_name=AWS
+
+2021-05-22 13:51:51 {"response_status_id":-1,"data":{"user_code":"18821078","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-22 13:51:53 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821078","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-22 15:51:56 initiator_id=9311252103&pan_number=IOMPK6847B&mobile=9528820213&first_name=MANISH&last_name=KUMAR&email=manishk57947@gmail.com&residence_address=%7B%22line%22%3A%22CHANDWAR+FIROZABAD%22%2C%22city%22%3A%22CHANDWAR+FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=2002-04-15&shop_name=AWS
+
+2021-05-22 15:51:58 {"response_status_id":-1,"data":{"user_code":"18821079","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-22 15:51:59 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821079","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-22 16:33:17 initiator_id=9311252103&pan_number=BEZPA0960B&mobile=9336060311&first_name=MOHAMMAD&last_name=AAMISH&email=mohd.aamish33@gmail.com&residence_address=%7B%22line%22%3A%22mubarakpur+azamgarh%22%2C%22city%22%3A%22azamgarh%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22276404%22%2C%22district%22%3A%22AZAMGARH%22%2C%22area%22%3A%22AZAMGARH%22%7D&dob=1994-05-21&shop_name=aws
+
+2021-05-22 16:33:21 {"response_status_id":-1,"data":{"user_code":"15232320","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-22 16:34:21 initiator_id=9311252103&pan_number=BEZPA0960B&mobile=9336060321&first_name=MOHAMMAD&last_name=AAMISH&email=mohd.aamish33@gmail.com&residence_address=%7B%22line%22%3A%22mubarakpur+azamgarh%22%2C%22city%22%3A%22azamgarh%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22276404%22%2C%22district%22%3A%22AZAMGARH%22%2C%22area%22%3A%22AZAMGARH%22%7D&dob=1994-05-21&shop_name=aws
+
+2021-05-22 16:34:24 {"response_status_id":-1,"data":{"user_code":"18821080","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-22 16:34:25 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821080","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-23 11:28:23 initiator_id=9311252103&pan_number=BYKPV3599L&mobile=8887615813&first_name=VANDNA&last_name=KUMARI&email=shailendratiwari8887@gmail.com&residence_address=%7B%22line%22%3A%22GANDHI+GRAM+SANT+KABIR+NAGAR%22%2C%22city%22%3A%22SANT+KABIR+NAGAR%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22272175%22%2C%22district%22%3A%22SANT+KABIR+NAGAR%22%2C%22area%22%3A%22SANT+KABIR+NAGAR%22%7D&dob=1978-02-11&shop_name=AWS
+
+2021-05-23 11:28:26 {"response_status_id":-1,"data":{"user_code":"18821081","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-23 11:28:27 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821081","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-24 13:32:36 initiator_id=9311252103&pan_number=GHGPK3316C&mobile=8791410158&first_name=SANTOSH&last_name=KUMAR&email=aakash6497@gmail.com&residence_address=%7B%22line%22%3A%22BOJHIYA+SHIKOHABAD+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1997-04-06&shop_name=AWS
+
+2021-05-24 13:32:38 {"response_status_id":-1,"data":{"user_code":"18821083","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-24 13:32:40 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821083","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-24 14:58:32 initiator_id=9311252103&pan_number=DFKPP0666H&mobile=9997410017&first_name=KAUSHAL&last_name=KISHOR&email=kaushalkishor.kkp@gmail.com&residence_address=%7B%22line%22%3A%22KHADIT+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1996-01-01&shop_name=AWS
+
+2021-05-24 14:58:34 {"response_status_id":-1,"data":{"user_code":"18821084","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-24 14:58:36 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821084","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-25 13:31:42 initiator_id=9311252103&pan_number=DFJPG4236M&mobile=7895061963&first_name=Gagan&last_name=kumar&email=yogityadav26@gmail.com&residence_address=%7B%22line%22%3A%22saurakh+hevatpur+harha+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2000-01-01&shop_name=aws
+
+2021-05-25 13:31:44 {"response_status_id":-1,"data":{"user_code":"15233095","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-25 13:32:12 initiator_id=9311252103&pan_number=DFJPG4236M&mobile=7895061964&first_name=Gagan&last_name=kumar&email=yogityadav26@gmail.com&residence_address=%7B%22line%22%3A%22saurakh+hevatpur+harha+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2000-01-01&shop_name=aws
+
+2021-05-25 13:32:14 {"response_status_id":-1,"data":{"user_code":"18821085","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-25 13:32:15 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821085","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-25 13:47:50 initiator_id=9311252103&pan_number=DYEPK3114E&mobile=7505614483&first_name=SUDEESH&last_name=KUMAR&email=sudeeshyadav1351993@gmail.com&residence_address=%7B%22line%22%3A%22NAGLA+TURSI+BARA+GAON+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1993-01-01&shop_name=AWS
+
+2021-05-25 13:47:50 {"response_status_id":-1,"data":{"user_code":"18821034","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-25 13:48:21 initiator_id=9311252103&pan_number=DYEPK3114E&mobile=7505614483&first_name=SUDEESH&last_name=KUMAR&email=sudeeshyadav1351993@gmail.com&residence_address=%7B%22line%22%3A%22NAGLA+TURSI+BARA+GAON+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1993-01-01&shop_name=AWS
+
+2021-05-25 13:48:21 {"response_status_id":-1,"data":{"user_code":"18821034","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-25 13:48:41 initiator_id=9311252103&pan_number=DYEPK3114E&mobile=7505614484&first_name=SUDEESH&last_name=KUMAR&email=sudeeshyadav1351993@gmail.com&residence_address=%7B%22line%22%3A%22NAGLA+TURSI+BARA+GAON+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1993-01-01&shop_name=AWS
+
+2021-05-25 13:48:44 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-05-25 13:49:11 initiator_id=9311252103&pan_number=DYEPK3114E&mobile=7505614484&first_name=SUDEESH&last_name=KUMAR&email=sudeeshyadav1351993@gmail.com&residence_address=%7B%22line%22%3A%22NAGLA+TURSI+BARA+GAON+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1993-01-01&shop_name=AWS
+
+2021-05-25 13:49:12 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-05-27 11:37:42 initiator_id=9311252103&pan_number=GETPK9267L&mobile=8090302008&first_name=Mohammad&last_name=khalid&email=ppkks999@gmail.com&residence_address=%7B%22line%22%3A%22mubarakpur+azamgarh%22%2C%22city%22%3A%22azamgarh%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22276404%22%2C%22district%22%3A%22azamgarh%22%2C%22area%22%3A%22azamgarh%22%7D&dob=1998-01-13&shop_name=aws
+
+2021-05-27 11:37:44 {"response_status_id":-1,"data":{"user_code":"18821086","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-27 11:37:46 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821086","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-27 14:23:41 initiator_id=9311252103&pan_number=BBVPY1951K&mobile=8433278212&first_name=Abhay &last_name=yadav&email=abhayyadav@gmail.com&residence_address=%7B%22line%22%3A%22himmatpur+dharau+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22205141%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1993-07-10&shop_name=aws
+
+2021-05-27 14:23:41 {"response_status_id":1,"data":{"initiator_id":""},"response_type_id":1301,"message":"Not a valid pincode","status":1301}
+
+2021-05-27 14:24:20 initiator_id=9311252103&pan_number=BBVPY1951K&mobile=8433278212&first_name=Abhay &last_name=yadav&email=abhayyadav@gmail.com&residence_address=%7B%22line%22%3A%22himmatpur+dharau+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1993-07-10&shop_name=aws
+
+2021-05-27 14:24:22 {"response_status_id":-1,"data":{"user_code":"15232985","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-27 14:39:56 initiator_id=9311252103&pan_number=BBVPY1951K&mobile=8859642408&first_name=abhay&last_name=yadav&email=abhayyadav@gmail.com&residence_address=%7B%22line%22%3A%22himmatpur+dharau+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22205141%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1993-07-10&shop_name=aws
+
+2021-05-27 14:39:56 {"response_status_id":1,"data":{"initiator_id":""},"response_type_id":1301,"message":"Not a valid pincode","status":1301}
+
+2021-05-27 14:43:15 initiator_id=9311252103&pan_number=BBVPY1951K&mobile=8859642408&first_name=abhay&last_name=yadav&email=abhayyadav@gmail.com&residence_address=%7B%22line%22%3A%22himmatpur+dharau+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1993-07-10&shop_name=aws
+
+2021-05-27 14:43:17 {"response_status_id":-1,"data":{"user_code":"18821087","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-27 14:43:18 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821087","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-27 15:35:57 initiator_id=9311252103&pan_number=CNLPG3778F&mobile=8550942995&first_name=Roshanvilasrao &last_name=gole&email=goleprashant1997@gmail.com&residence_address=%7B%22line%22%3A%22takarnja+wapti+washim%22%2C%22city%22%3A%22washim%22%2C%22state%22%3A%22Maharashtra%22%2C%22pincode%22%3A%22444105%22%2C%22district%22%3A%22washim%22%2C%22area%22%3A%22washim%22%7D&dob=1996-06-30&shop_name=aws
+
+2021-05-27 15:36:00 {"response_status_id":-1,"data":{"user_code":"18821088","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-27 15:36:01 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821088","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-27 16:11:46 initiator_id=9311252103&pan_number=FQHPD0379F&mobile=9389643097&first_name=MITHLESH&last_name=DEVI&email=ak8176007@gmail.com&residence_address=%7B%22line%22%3A%22Bikupur+ramnagar+danpur+bulandshahr%22%2C%22city%22%3A%22bulandshahr%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22202392%22%2C%22district%22%3A%22BULANDSHAHR%22%2C%22area%22%3A%22BULANDSHAHR%22%7D&dob=1957-01-01&shop_name=AWS
+
+2021-05-27 16:11:46 {"response_status_id":1,"data":{"initiator_id":""},"response_type_id":1301,"message":"Not a valid pincode","status":1301}
+
+2021-05-27 16:15:54 initiator_id=9311252103&pan_number=FQHPD0379F&mobile=9759168126&first_name=MITHLESH&last_name=DEVI&email=ak8176007@gmail.com&residence_address=%7B%22line%22%3A%22Bikupur+ramnagar+danpur+bulandshahr%22%2C%22city%22%3A%22bulandshahr%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22203001%22%2C%22district%22%3A%22BULANDSHAHR%22%2C%22area%22%3A%22BULANDSHAHR%22%7D&dob=1957-01-01&shop_name=AWS
+
+2021-05-27 16:15:59 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-05-27 16:30:04 initiator_id=9311252103&pan_number=FQHPD0379F&mobile=9759168126&first_name=DURGPAL&last_name=SINGH&email=ak8176007@gmail.com&residence_address=%7B%22line%22%3A%22Bikupur+ramnagar+danpur+bulandshahr%22%2C%22city%22%3A%22bulandshahr%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22203001%22%2C%22district%22%3A%22BULANDSHAHR%22%2C%22area%22%3A%22BULANDSHAHR%22%7D&dob=1952-01-01&shop_name=AWS
+
+2021-05-27 16:30:04 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-05-27 16:41:34 initiator_id=9311252103&pan_number=KDAPS0001N&mobile=9389643097&first_name=DURGPAL&last_name=SINGH&email=ak8176007@gmail.com&residence_address=%7B%22line%22%3A%22Bikupur+ramnagar+kiratpur+bulandshahr%22%2C%22city%22%3A%22bulandshahr%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22203001%22%2C%22district%22%3A%22bulandshahr%22%2C%22area%22%3A%22bulandshahr%22%7D&dob=1952-01-01&shop_name=aws
+
+2021-05-27 16:41:37 {"response_status_id":-1,"data":{"user_code":"15232021","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-27 16:42:26 initiator_id=9311252103&pan_number=KDAPS0001N&mobile=9759168126&first_name=DURGPAL&last_name=SINGH&email=ak8176007@gmail.com&residence_address=%7B%22line%22%3A%22Bikupur+ramnagar+kiratpur+bulandshahr%22%2C%22city%22%3A%22bulandshahr%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22203001%22%2C%22district%22%3A%22bulandshahr%22%2C%22area%22%3A%22bulandshahr%22%7D&dob=1952-01-01&shop_name=aws
+
+2021-05-27 16:42:28 {"response_status_id":-1,"data":{"user_code":"18821089","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-27 16:42:30 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821089","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-27 17:21:11 initiator_id=9311252103&pan_number=AYZPK9664K&mobile=9368666760&first_name=GAGAN&last_name=KUMAR&email=Aman7017gupta@gmail.com&residence_address=%7B%22line%22%3A%22TAVAIFFAN+AWAGARH+ETAH%22%2C%22city%22%3A%22ETAH%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22207301%22%2C%22district%22%3A%22ETAH%22%2C%22area%22%3A%22ETAH%22%7D&dob=1980-01-01&shop_name=AWS
+
+2021-05-27 17:21:11 {"response_status_id":-1,"data":{"user_code":"15232428","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-27 17:22:43 initiator_id=9311252103&pan_number=AYZPK9664K&mobile=8279455501&first_name=GAGAN&last_name=KUMAR&email=Aman7017gupta@gmail.com&residence_address=%7B%22line%22%3A%22TAVAIFFAN+AWAGARH+ETAH%22%2C%22city%22%3A%22ETAH%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22207301%22%2C%22district%22%3A%22ETAH%22%2C%22area%22%3A%22ETAH%22%7D&dob=1980-01-01&shop_name=AWS
+
+2021-05-27 17:22:45 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-05-28 10:30:13 initiator_id=9311252103&pan_number=AFPPT1962C&mobile=8887615813&first_name=Manjeet &last_name=tripathi&email=shailendratiwari8887@gmail.com&residence_address=%7B%22line%22%3A%22pailleekhas+gajpur+sant+kabir+nagar%22%2C%22city%22%3A%22sant+kabir+nagar%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22272175%22%2C%22district%22%3A%22sant+kabir+nagar%22%2C%22area%22%3A%22sant+kabir+nagar%22%7D&dob=1982-01-25&shop_name=aws
+
+2021-05-28 10:30:16 {"response_status_id":-1,"data":{"user_code":"18821081","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-28 10:31:33 initiator_id=9311252103&pan_number=AFPPT1962C&mobile=9450495136&first_name=Manjeet &last_name=tripathi&email=shailendratiwari8887@gmail.com&residence_address=%7B%22line%22%3A%22pailleekhas+gajpur+sant+kabir+nagar%22%2C%22city%22%3A%22sant+kabir+nagar%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22272175%22%2C%22district%22%3A%22sant+kabir+nagar%22%2C%22area%22%3A%22sant+kabir+nagar%22%7D&dob=1982-01-25&shop_name=aws
+
+2021-05-28 10:31:36 {"response_status_id":-1,"data":{"user_code":"15232051","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-28 10:31:45 initiator_id=9311252103&pan_number=AFPPT1962C&mobile=9450495136&first_name=Manjeet &last_name=tripathi&email=shailendratiwari8887@gmail.com&residence_address=%7B%22line%22%3A%22pailleekhas+gajpur+sant+kabir+nagar%22%2C%22city%22%3A%22sant+kabir+nagar%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22272175%22%2C%22district%22%3A%22sant+kabir+nagar%22%2C%22area%22%3A%22sant+kabir+nagar%22%7D&dob=1982-01-25&shop_name=aws
+
+2021-05-28 10:31:45 {"response_status_id":-1,"data":{"user_code":"15232051","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-28 10:32:39 initiator_id=9311252103&pan_number=AFPPT1962C&mobile=8858019141&first_name=Manjeet &last_name=tripathi&email=shailendratiwari8887@gmail.com&residence_address=%7B%22line%22%3A%22pailleekhas+gajpur+sant+kabir+nagar%22%2C%22city%22%3A%22sant+kabir+nagar%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22272175%22%2C%22district%22%3A%22sant+kabir+nagar%22%2C%22area%22%3A%22sant+kabir+nagar%22%7D&dob=1982-01-25&shop_name=aws
+
+2021-05-28 10:32:41 {"response_status_id":-1,"data":{"user_code":"18821090","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-28 10:32:43 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821090","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-28 12:23:01 initiator_id=9311252103&pan_number=DHJPK1462D&mobile=9997765423&first_name=ATUL&last_name=KUMAR&email=4778atulkumar@gmail.com&residence_address=%7B%22line%22%3A%22PITHANI+DATAWALI+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1995-07-08&shop_name=AWS
+
+2021-05-28 12:23:03 {"response_status_id":-1,"data":{"user_code":"18821091","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-28 12:23:04 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821091","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-28 12:53:23 initiator_id=9311252103&pan_number=GTJPD9013G&mobile=8392863638&first_name=DEVAKI&last_name=DEVI&email=bachankumar5029@gmail.com&residence_address=%7B%22line%22%3A%22RUPWAS+DATAWALI+SENGAI+JALALPUR+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1994-01-01&shop_name=AWS
+
+2021-05-28 12:53:27 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-05-28 13:23:22 initiator_id=9311252103&pan_number=JRDPS2821G&mobile=8392863638&first_name=RADHE&last_name=SHYAM&email=bachankumar5029@gmail.com&residence_address=%7B%22line%22%3A%22RUPWAS+DATAULI+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1953-01-01&shop_name=AWS
+
+2021-05-28 13:23:26 {"response_status_id":-1,"data":{"user_code":"18821092","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-28 13:23:27 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821092","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-28 15:09:08 initiator_id=9311252103&pan_number=ALWPP6758M&mobile=7351603023&first_name=SHREEPAL&last_name=KUMAR&email=krishnalalai474@gmail.com&residence_address=%7B%22line%22%3A%22LALAI+KHERGARH+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1970-07-01&shop_name=AWS
+
+2021-05-28 15:09:10 {"response_status_id":-1,"data":{"user_code":"15231986","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-28 15:12:28 initiator_id=9311252103&pan_number=ALWPP6758M&mobile=8791329611&first_name=SHREEPAL&last_name=KUMAR&email=krishnalalai474@gmail.com&residence_address=%7B%22line%22%3A%22LALAI+KHERGARH+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1970-07-01&shop_name=AWS
+
+2021-05-28 15:12:30 {"response_status_id":-1,"data":{"user_code":"18821093","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-28 15:12:31 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821093","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-28 16:02:35 initiator_id=9311252103&pan_number=BQYPV3347J&mobile=9837302038&first_name=vrajpal&last_name=kumar&email=omprakash234by@gmail.com&residence_address=%7B%22line%22%3A%22atai+nagar+jiwai+kadeem+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22243701%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1963-01-01&shop_name=aws
+
+2021-05-28 16:02:35 {"response_status_id":1,"data":{"initiator_id":""},"response_type_id":1301,"message":"Not a valid pincode","status":1301}
+
+2021-05-28 16:03:30 initiator_id=9311252103&pan_number=BQYPV3347J&mobile=9837302038&first_name=vrajpal&last_name=kumar&email=omprakash234by@gmail.com&residence_address=%7B%22line%22%3A%22atai+nagar+jiwai+kadeem+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244901%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1963-01-01&shop_name=aws
+
+2021-05-28 16:03:32 {"response_status_id":-1,"data":{"user_code":"15232004","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-28 16:05:58 initiator_id=9311252103&pan_number=BQYPV3347J&mobile=8006520050&first_name=vrajpal&last_name=kumar&email=omprakash234by@gmail.com&residence_address=%7B%22line%22%3A%22atai+nagar+jiwai+kadeem+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244901%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1963-01-01&shop_name=aws
+
+2021-05-28 16:06:00 {"response_status_id":-1,"data":{"user_code":"18821094","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-28 16:06:02 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821094","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-29 12:30:09 initiator_id=9311252103&pan_number=BEOPV3768M&mobile=9412126507&first_name=anand&last_name=vardhan&email=vardhan.yash.2018@gmail.com&residence_address=%7B%22line%22%3A%22mohammadpur+navada+makkhanpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Select+State%22%2C%22pincode%22%3A%22201301%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1997-10-07&shop_name=aws
+
+2021-05-29 12:30:10 {"response_status_id":1,"data":{"initiator_id":""},"response_type_id":1288,"message":"Not a valid state","status":1288}
+
+2021-05-29 12:30:25 initiator_id=9311252103&pan_number=BEOPV3768M&mobile=9412126507&first_name=anand&last_name=vardhan&email=vardhan.yash.2018@gmail.com&residence_address=%7B%22line%22%3A%22mohammadpur+navada+makkhanpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22201301%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1997-10-07&shop_name=aws
+
+2021-05-29 12:30:32 {"response_status_id":-1,"data":{"user_code":"18821095","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-29 12:30:34 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821095","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-30 11:41:20 initiator_id=9311252103&pan_number=HIPPK0489F&mobile=9319641164&first_name=PREM&last_name=KUMAR&email=kanil476783@gmail.com&residence_address=%7B%22line%22%3A%22NAGLA+PAN+SAHAY+KOTLA+ROAD+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1984-01-01&shop_name=AWS
+
+2021-05-30 11:41:22 {"response_status_id":-1,"data":{"user_code":"15232889","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-05-30 11:41:59 initiator_id=9311252103&pan_number=HIPPK0489F&mobile=8384008583&first_name=PREM&last_name=KUMAR&email=kanil476783@gmail.com&residence_address=%7B%22line%22%3A%22NAGLA+PAN+SAHAY+KOTLA+ROAD+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1984-01-01&shop_name=AWS
+
+2021-05-30 11:42:02 {"response_status_id":-1,"data":{"user_code":"18821097","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-30 11:42:03 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821097","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-30 12:18:58 initiator_id=9311252103&pan_number=IQBPS2847N&mobile=9815642681&first_name=kulwant&last_name=singh&email=ip743667@gmail.com&residence_address=%7B%22line%22%3A%22ramana+chak+dhulka+amritsar+punjab%22%2C%22city%22%3A%22amritsar%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22143111%22%2C%22district%22%3A%22amritsar%22%2C%22area%22%3A%22amritsar%22%7D&dob=1982-01-01&shop_name=aws
+
+2021-05-30 12:19:01 {"response_status_id":-1,"data":{"user_code":"18821098","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-30 12:19:02 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821098","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-30 13:28:05 initiator_id=9311252103&pan_number=FHBPK3947M&mobile=8868939576&first_name=Manoj &last_name=kumar&email=Ramdasidea888@gmail.com&residence_address=%7B%22line%22%3A%22armarajat+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1998-07-15&shop_name=aws
+
+2021-05-30 13:28:07 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-05-31 12:23:47 initiator_id=9311252103&pan_number=EPFPK0264G&mobile=7277785377&first_name=santosh&last_name=kumar&email=rajbirsharma750s@gmail.com&residence_address=%7B%22line%22%3A%22Ghosaith+ghuset+lakhisarai+bihar%22%2C%22city%22%3A%22Lakhisarai%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22811112%22%2C%22district%22%3A%22lakhisarai%22%2C%22area%22%3A%22lakhisarai%22%7D&dob=1998-02-25&shop_name=aws
+
+2021-05-31 12:23:49 {"response_status_id":-1,"data":{"user_code":"18821099","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-31 12:23:51 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821099","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-31 13:00:47 initiator_id=9311252103&pan_number=HDLPK0342C&mobile=7819910364&first_name=GORAV&last_name=KUMAR&email=Anshulyada64@gmail.com&residence_address=%7B%22line%22%3A%22SAURAKH+HEVATPUR+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1999-10-12&shop_name=AWS
+
+2021-05-31 13:00:49 {"response_status_id":-1,"data":{"user_code":"18821100","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-31 13:00:50 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821100","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-05-31 14:48:54 initiator_id=9311252103&pan_number=GSOPD5552C&mobile=7505146227&first_name=gagan&last_name=dev&email=singhrom205151@gmail.com&residence_address=%7B%22line%22%3A%22nagla+gulal+urawar+hastart+firoabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1999-10-12&shop_name=aws
+
+2021-05-31 14:48:58 {"response_status_id":-1,"data":{"user_code":"18821101","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-05-31 14:48:59 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821101","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-01 13:37:58 initiator_id=9311252103&pan_number=FGQPS5211A&mobile=8240332112&first_name=SONU KUMAR&last_name=SHARMA&email=luckssharma1@gmail.com&residence_address=%7B%22line%22%3A%22BUYLANE+CHAMPDANI+HOOGHLY+WEST+BENGAL%22%2C%22city%22%3A%22HOOGHLY%22%2C%22state%22%3A%22West+Bengal%22%2C%22pincode%22%3A%22712222%22%2C%22district%22%3A%22HOOGHLY%22%2C%22area%22%3A%22HOOGHLY%22%7D&dob=1990-02-18&shop_name=AWS
+
+2021-06-01 13:37:59 {"response_status_id":-1,"data":{"user_code":"15232315","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-02 12:22:38 initiator_id=9311252103&pan_number=CJGPC8237C&mobile=8279455501&first_name=Ayush&last_name=chauhan&email=Aman7017gupta@gmail.com&residence_address=%7B%22line%22%3A%22koliyan+awagarh+etah%22%2C%22city%22%3A%22etah%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22207301%22%2C%22district%22%3A%22etah%22%2C%22area%22%3A%22etah%22%7D&dob=2002-08-08&shop_name=aws
+
+2021-06-02 12:22:40 {"response_status_id":-1,"data":{"user_code":"18821103","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-02 12:22:43 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821103","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-02 14:12:48 initiator_id=9311252103&pan_number=FDXPK8815E&mobile=8006139223&first_name=Surendra&last_name=kumar&email=surendrarajput54042@gmail.com&residence_address=%7B%22line%22%3A%22ainthapura+khurd+kalan+kasganj%22%2C%22city%22%3A%22kasganj%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22207123%22%2C%22district%22%3A%22kasganj%22%2C%22area%22%3A%22kasganj%22%7D&dob=1998-08-03&shop_name=aws
+
+2021-06-02 14:12:51 {"response_status_id":-1,"data":{"user_code":"18821106","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-02 14:12:53 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821106","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-02 14:32:08 initiator_id=9311252103&pan_number=MVVPS3333J&mobile=9897091147&first_name=UDAL&last_name=SINGH&email=udals510@gmail.com&residence_address=%7B%22line%22%3A%22MADAIYA+LOKE+BHADAN+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1988-06-15&shop_name=AWS
+
+2021-06-02 14:32:10 {"response_status_id":-1,"data":{"user_code":"18821107","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-02 14:32:12 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821107","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-02 15:31:49 initiator_id=9311252103&pan_number=ECGPA3587Q&mobile=9627485384&first_name=ANJANA&last_name=KUMARI&email=www.rahulyadavgoldenhero@gmail.com&residence_address=%7B%22line%22%3A%22NAGLA+KUVAR+PRASAD+MUSTAFABAD+ROAD++SHIKOHABAD+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1981-11-20&shop_name=AWS
+
+2021-06-02 15:31:51 {"response_status_id":-1,"data":{"user_code":"15232565","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-02 15:33:06 initiator_id=9311252103&pan_number=ECGPA3587Q&mobile=9411287428&first_name=ANJANA&last_name=KUMARI&email=www.rahulyadavgoldenhero@gmail.com&residence_address=%7B%22line%22%3A%22NAGLA+KUVAR+PRASAD+MUSTAFABAD+ROAD++SHIKOHABAD+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1981-11-20&shop_name=AWS
+
+2021-06-02 15:33:09 {"response_status_id":-1,"data":{"user_code":"18821108","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-02 15:33:10 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821108","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-02 16:14:14 initiator_id=9311252103&pan_number=FAXPD8313K&mobile=9761617575&first_name=Soniya &last_name=devi&email=Thakurrajpoot7575@gmail.com&residence_address=%7B%22line%22%3A%22nagla+gurjar+saharanpur+uttar+pradesh%22%2C%22city%22%3A%22saharanpur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22247341%22%2C%22district%22%3A%22saharanpur%22%2C%22area%22%3A%22saharanpur%22%7D&dob=1981-01-01&shop_name=aws
+
+2021-06-02 16:14:16 {"response_status_id":-1,"data":{"user_code":"18821109","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-02 16:14:18 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821109","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-02 17:14:04 initiator_id=9311252103&pan_number=IVAPK0514G&mobile=9872177368&first_name=Balwinder&last_name=kaur&email=ms326188@gmail.com&residence_address=%7B%22line%22%3A%22Sadhar+rajputankhilchian+amritsar+punjab%22%2C%22city%22%3A%22amritsar%22%2C%22state%22%3A%22Punjab%22%2C%22pincode%22%3A%22143111%22%2C%22district%22%3A%22amritsar%22%2C%22area%22%3A%22amritsar%22%7D&dob=1996-05-01&shop_name=aws
+
+2021-06-02 17:14:06 {"response_status_id":-1,"data":{"user_code":"15232500","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-02 17:16:35 initiator_id=9311252103&pan_number=IVAPK0514G&mobile=9592103636&first_name=Balwinder&last_name=kaur&email=ms326188@gmail.com&residence_address=%7B%22line%22%3A%22Sadhar+rajputankhilchian+amritsar+punjab%22%2C%22city%22%3A%22amritsar%22%2C%22state%22%3A%22Punjab%22%2C%22pincode%22%3A%22143111%22%2C%22district%22%3A%22amritsar%22%2C%22area%22%3A%22amritsar%22%7D&dob=1996-05-01&shop_name=aws
+
+2021-06-02 17:16:37 {"response_status_id":-1,"data":{"user_code":"18821110","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-02 17:16:38 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821110","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-03 13:58:09 initiator_id=9311252103&pan_number=JUNPK4053H&mobile=6397105353&first_name=Akash&last_name=kumar&email=Thakurrajpoot7575@gmail.com&residence_address=%7B%22line%22%3A%22fatehpur+ramnagar+maniharan+nanauta+dehat+saharanpur%22%2C%22city%22%3A%22saharanpur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22247452%22%2C%22district%22%3A%22saharanpur%22%2C%22area%22%3A%22saharanpur%22%7D&dob=2007-01-01&shop_name=aws
+
+2021-06-03 13:58:12 {"response_status_id":-1,"data":{"user_code":"15232062","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-03 14:03:22 initiator_id=9311252103&pan_number=JUNPK4053H&mobile=9671686175&first_name=Akash&last_name=kumar&email=Thakurrajpoot7575@gmail.com&residence_address=%7B%22line%22%3A%22fatehpur+ramnagar+maniharan+nanauta+dehat+saharanpur%22%2C%22city%22%3A%22saharanpur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22247452%22%2C%22district%22%3A%22saharanpur%22%2C%22area%22%3A%22saharanpur%22%7D&dob=2007-01-01&shop_name=aws
+
+2021-06-03 14:03:24 {"response_status_id":-1,"data":{"user_code":"18821111","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-03 14:03:25 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821111","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-03 17:23:51 initiator_id=9311252103&pan_number=BROPV1619N&mobile=9758186998&first_name=vikash&last_name=kumar&email=vy058115@gmail.com&residence_address=%7B%22line%22%3A%22sengai+allahdadpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2001-01-02&shop_name=aws
+
+2021-06-03 17:23:53 {"response_status_id":-1,"data":{"user_code":"15232007","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-03 17:24:32 initiator_id=9311252103&pan_number=BROPV1619N&mobile=7017644425&first_name=vikash&last_name=kumar&email=vy058115@gmail.com&residence_address=%7B%22line%22%3A%22sengai+allahdadpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2001-01-02&shop_name=aws
+
+2021-06-03 17:24:36 {"response_status_id":-1,"data":{"user_code":"18821112","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-03 17:24:37 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821112","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-04 13:22:02 initiator_id=9311252103&pan_number=AIKPY8210C&mobile=9457324511&first_name=Geeta&last_name=yadav&email=shivy2010@rediffmail.com&residence_address=%7B%22line%22%3A%22sanjay+nagar+baradari+bareilly%22%2C%22city%22%3A%22bareilly%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22243005%22%2C%22district%22%3A%22bareilly%22%2C%22area%22%3A%22bareilly%22%7D&dob=1987-06-20&shop_name=aws
+
+2021-06-04 13:22:04 {"response_status_id":-1,"data":{"user_code":"18821113","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-04 13:22:05 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821113","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-05 11:10:44 initiator_id=9311252103&pan_number=JOWPS0647C&mobile=9713535736&first_name=Shailendra&last_name=singh&email=singhchanu1981@gmail.com&residence_address=%7B%22line%22%3A%22sheshpur+bhaurajpur+kannauj%22%2C%22city%22%3A%22kannauj%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22209720%22%2C%22district%22%3A%22kannauj%22%2C%22area%22%3A%22kannauj%22%7D&dob=1996-07-25&shop_name=aws
+
+2021-06-05 11:10:48 {"response_status_id":-1,"data":{"user_code":"15231965","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-07 15:09:59 initiator_id=9311252103&pan_number=JOWPS0647C&mobile=9770430803&first_name=Shailendra&last_name=singh&email=singhchanu1981@gmail.com&residence_address=%7B%22line%22%3A%22sheshpur+bhaurajpur+kannauj%22%2C%22city%22%3A%22kannauj%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22209720%22%2C%22district%22%3A%22kannauj%22%2C%22area%22%3A%22kannauj%22%7D&dob=1996-07-25&shop_name=aws
+
+2021-06-07 15:10:05 {"response_status_id":-1,"data":{"user_code":"18821114","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-07 15:10:06 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821114","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-07 16:28:54 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=8755819274&first_name=Karanveer&last_name=yaduvanshi&email=abhikesh192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 16:28:56 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-07 16:32:06 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=8755819274&first_name=Karanveer&last_name=yaduvanshi&email=abhikesh192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 16:32:06 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-07 16:41:40 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=8755819274&first_name=karanveer&last_name=yaduvanshi&email=abhikesh192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 16:41:40 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-07 16:57:49 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=8755819274&first_name=Karanveer&last_name=yaduvanshi&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 16:57:49 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-07 16:59:49 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=8755819274&first_name=Karan veer&last_name=yaduvanshi&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 16:59:50 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-07 17:04:01 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=8755819274&first_name=Karan veer&last_name=yaduvanshi&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 17:04:02 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-07 17:04:43 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=8755819274&first_name=Karanveer yaduvanshi&last_name=kumar&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 17:04:43 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-07 17:05:04 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=8755819274&first_name=Karan&last_name=kumar&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 17:05:04 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-07 17:05:38 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=8755819274&first_name=Karanveer&last_name=kumar&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 17:05:39 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-07 17:06:03 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=8755819274&first_name=Karanveer&last_name=Yaduvanshi&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 17:06:03 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-07 17:10:36 initiator_id=9311252103&pan_number=EVEPK3301R&mobile=6395495071&first_name=Karanveer&last_name=yaduvanshi&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22graam+dahini+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1988-08-20&shop_name=aws
+
+2021-06-07 17:10:57 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-07 17:39:21 initiator_id=9311252103&pan_number=AZOPY2629N&mobile=6395495071&first_name=Sunil kumar&last_name=yadav&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22jhangirpurgalrai+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1989-01-07&shop_name=aws
+
+2021-06-07 17:39:42 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-07 17:40:30 initiator_id=9311252103&pan_number=AZOPY2629N&mobile=6395495071&first_name=Sunil kumar&last_name=yadav&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22jhangirpurgalrai+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1989-01-07&shop_name=aws
+
+2021-06-07 17:40:40 {"response_status_id":-1,"data":{"user_code":"15232006","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-07 17:41:49 initiator_id=9311252103&pan_number=AZOPY2629N&mobile=8755819274&first_name=Sunil kumar&last_name=yadav&email=abhishak192yadav@gmail.com&residence_address=%7B%22line%22%3A%22jhangirpurgalrai+shikohabad+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1989-01-07&shop_name=aws
+
+2021-06-07 17:42:04 {"response_status_id":-1,"data":{"user_code":"18821115","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-07 17:42:05 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821115","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-08 11:56:14 initiator_id=9311252103&pan_number=BKTPV7542N&mobile=8881936685&first_name=Vireshwar&last_name=kumar&email=vireshwar593@gmail.com&residence_address=%7B%22line%22%3A%22nagla+hariya+makhanpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1998-03-15&shop_name=aws
+
+2021-06-08 11:56:16 {"response_status_id":-1,"data":{"user_code":"18821116","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-08 11:56:17 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821116","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-08 13:26:39 initiator_id=9311252103&pan_number=IYYPK6123A&mobile=9050872275&first_name=Rajesh&last_name=kumar&email=thakurrajpoot7575@gmai.com&residence_address=%7B%22line%22%3A%22chhota+bans+radauri+yamuna+nagar+haryana%22%2C%22city%22%3A%22yamuna+nagar%22%2C%22state%22%3A%22Haryana%22%2C%22pincode%22%3A%22135133%22%2C%22district%22%3A%22radauri%22%2C%22area%22%3A%22radauri%22%7D&dob=1986-04-14&shop_name=aws
+
+2021-06-08 13:26:45 {"response_status_id":-1,"data":{"user_code":"18821117","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-08 13:26:47 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821117","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-08 16:41:39 initiator_id=9311252103&pan_number=HERPK3385C&mobile=9634769701&first_name=Ajeet &last_name=kumar&email=ajeetkumarjas192@gmail.com&residence_address=%7B%22line%22%3A%22abu+aturra+akabarpur+kutubpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1997-07-25&shop_name=aws
+
+2021-06-08 16:41:46 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-06-09 13:12:51 initiator_id=9311252103&pan_number=EVWPR3372D&mobile=9669192770&first_name=Ravi&last_name=kumar&email=Solankiravindra539@gmail.com&residence_address=%7B%22line%22%3A%22Neemsar+bagod+khargone+madhya+pradesh%22%2C%22city%22%3A%22khargone%22%2C%22state%22%3A%22Madhya+Pradesh%22%2C%22pincode%22%3A%22451220%22%2C%22district%22%3A%22khargone%22%2C%22area%22%3A%22khargone%22%7D&dob=1995-01-01&shop_name=aws
+
+2021-06-09 13:12:55 {"response_status_id":-1,"data":{"user_code":"18821120","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-09 13:12:57 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821120","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-09 16:31:33 initiator_id=9311252103&pan_number=FQDPD5209J&mobile=9568318612&first_name=Meera&last_name=devi&email=ranveersinghdiwakar95@gmail.com&residence_address=%7B%22line%22%3A%22jagatpur+rohina+mirzapur+etah+awagarh%22%2C%22city%22%3A%22etah%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22207301%22%2C%22district%22%3A%22etah%22%2C%22area%22%3A%22etah%22%7D&dob=1996-01-01&shop_name=aws
+
+2021-06-09 16:31:35 {"response_status_id":-1,"data":{"user_code":"15232658","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-09 16:32:20 initiator_id=9311252103&pan_number=FQDPD5209J&mobile=8630276991&first_name=Meera&last_name=devi&email=ranveersinghdiwakar95@gmail.com&residence_address=%7B%22line%22%3A%22jagatpur+rohina+mirzapur+etah+awagarh%22%2C%22city%22%3A%22etah%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22207301%22%2C%22district%22%3A%22etah%22%2C%22area%22%3A%22etah%22%7D&dob=1996-01-01&shop_name=aws
+
+2021-06-09 16:32:22 {"response_status_id":-1,"data":{"user_code":"15232130","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-09 16:32:28 initiator_id=9311252103&pan_number=FQDPD5209J&mobile=8630276991&first_name=Meera&last_name=devi&email=ranveersinghdiwakar95@gmail.com&residence_address=%7B%22line%22%3A%22jagatpur+rohina+mirzapur+etah+awagarh%22%2C%22city%22%3A%22etah%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22207301%22%2C%22district%22%3A%22etah%22%2C%22area%22%3A%22etah%22%7D&dob=1996-01-01&shop_name=aws
+
+2021-06-09 16:32:28 {"response_status_id":-1,"data":{"user_code":"15232130","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-09 16:36:51 initiator_id=9311252103&pan_number=FQDPD5209J&mobile=8630276991&first_name=Meera&last_name=devi&email=ranveersinghdiwakar95@gmail.com&residence_address=%7B%22line%22%3A%22jagatpur+rohina+mirzapur+etah+awagarh%22%2C%22city%22%3A%22etah%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22207301%22%2C%22district%22%3A%22etah%22%2C%22area%22%3A%22etah%22%7D&dob=1996-01-01&shop_name=aws
+
+2021-06-09 16:36:52 {"response_status_id":-1,"data":{"user_code":"15232130","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-09 17:02:28 initiator_id=9311252103&pan_number=FQDPD5209J&mobile=9557005605&first_name=Meera&last_name=devi&email=ranveersinghdiwakar95@gmail.com&residence_address=%7B%22line%22%3A%22jagatpur+rohina+mirzapur+etah+awagarh%22%2C%22city%22%3A%22etah%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22207301%22%2C%22district%22%3A%22etah%22%2C%22area%22%3A%22etah%22%7D&dob=1996-01-01&shop_name=aws
+
+2021-06-09 17:02:30 {"response_status_id":-1,"data":{"user_code":"18821121","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-09 17:02:31 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821121","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-15 13:07:47 initiator_id=9311252103&pan_number=HZRPK9821G&mobile=8433454662&first_name=Arun &last_name=kumar&email=arunyadav1234skb@gmail.com&residence_address=%7B%22line%22%3A%22nasirpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1998-06-07&shop_name=aws
+
+2021-06-15 13:08:13 {"response_status_id":-1,"data":{"user_code":"18821124","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-15 13:08:14 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821124","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-15 13:29:23 initiator_id=9311252103&pan_number=BAPPC4213B&mobile=9415997280&first_name=Vasudev sharan&last_name=chaturvedi&email=alokkumarvns9@gmail.com&residence_address=%7B%22line%22%3A%22paranapur+varanasi%22%2C%22city%22%3A%22varanasi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22221104%22%2C%22district%22%3A%22varanasi%22%2C%22area%22%3A%22varanasi%22%7D&dob=1975-02-11&shop_name=aws
+
+2021-06-15 13:29:25 {"response_status_id":-1,"data":{"user_code":"18821125","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-15 13:29:26 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821125","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-15 15:18:38 initiator_id=9311252103&pan_number=KAOPK4900D&mobile=9837266056&first_name=Shiva&last_name=kumar&email=shivagutamfzd@gmail.com&residence_address=%7B%22line%22%3A%22gali+no.2+Humaupur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2002-01-03&shop_name=aws
+
+2021-06-15 15:18:58 {"response_status_id":-1,"data":{"user_code":"18821127","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-15 15:18:59 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821127","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-15 15:26:01 initiator_id=9311252103&pan_number=BBLPC0046D&mobile=9552739207&first_name=Ankush babusing &last_name=chavhan&email=ankushchavhan82@gmail.com&residence_address=%7B%22line%22%3A%22jamshetpur+yavatmal+pusad+maharashtra%22%2C%22city%22%3A%22jamshetpur%22%2C%22state%22%3A%22Maharashtra%22%2C%22pincode%22%3A%22445204%22%2C%22district%22%3A%22jamshetpur%22%2C%22area%22%3A%22jamshetpur%22%7D&dob=1994-01-01&shop_name=aws
+
+2021-06-15 15:26:03 {"response_status_id":-1,"data":{"user_code":"18821128","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-15 15:26:05 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821128","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-16 12:36:37 initiator_id=9311252103&pan_number=CJOPB0684C&mobile=9457107577&first_name=Babita &last_name=devi&email=dasendray8@gmail.com&residence_address=%7B%22line%22%3A%22nagla+lekhraj+bharaul+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1991-07-25&shop_name=aws
+
+2021-06-16 12:36:41 {"response_status_id":-1,"data":{"user_code":"18821129","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-16 12:36:42 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821129","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-16 15:18:47 initiator_id=9311252103&pan_number=FHBPK3947M&mobile=9927488858&first_name=Manoj &last_name=kumar&email=Ramdasidea888@gmail.com&residence_address=%7B%22line%22%3A%22Armarajat+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22205141%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1998-07-15&shop_name=aws
+
+2021-06-16 15:18:48 {"response_status_id":1,"data":{"initiator_id":""},"response_type_id":1301,"message":"Not a valid pincode","status":1301}
+
+2021-06-16 15:19:41 initiator_id=9311252103&pan_number=FHBPK3947M&mobile=9927488858&first_name=Manoj &last_name=kumar&email=Ramdasidea888@gmail.com&residence_address=%7B%22line%22%3A%22Armarajat+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1998-07-15&shop_name=aws
+
+2021-06-16 15:19:41 {"response_status_id":-1,"data":{"user_code":"15232168","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-16 15:22:31 initiator_id=9311252103&pan_number=FHBPK3947M&mobile=8868939576&first_name=Manoj &last_name=kumar&email=Ramdasidea888@gmail.com&residence_address=%7B%22line%22%3A%22Armarajat+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1998-07-15&shop_name=aws
+
+2021-06-16 15:22:43 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-06-16 15:25:52 initiator_id=9311252103&pan_number=FHBPK3947M&mobile=8868939576&first_name=Manoj &last_name=kumar&email=Ramdasidea888@gmail.com&residence_address=%7B%22line%22%3A%22Armarajat+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1998-07-15&shop_name=aws
+
+2021-06-16 15:25:52 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-06-16 16:52:49 initiator_id=9311252103&pan_number=IFMPK6471N&mobile=9837244910&first_name=Vikas&last_name=kumar&email=vikaskumar12597@gmail.com&residence_address=%7B%22line%22%3A%22oya+mainpuri%22%2C%22city%22%3A%22mainpuri%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22205121%22%2C%22district%22%3A%22mainpuri%22%2C%22area%22%3A%22mainpuri%22%7D&dob=1997-12-05&shop_name=aws
+
+2021-06-16 16:52:55 {"response_status_id":-1,"data":{"user_code":"18821130","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-16 16:52:56 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821130","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-18 23:37:10 initiator_id=9311252103&pan_number=EEUPK4371G&mobile=8449533462&first_name=Munish&last_name=kumar&email=munishchandra86@gmail.com&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-18 23:37:15 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-18 23:37:24 initiator_id=9311252103&pan_number=EEUPK4371G&mobile=8449533462&first_name=Munish&last_name=kumar&email=munishchandra86@gmail.com&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-18 23:37:27 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-18 23:38:10 initiator_id=9311252103&pan_number=EEUPK4371G&mobile=8449533462&first_name=Munish&last_name=kumar&email=munishchandra86@gmail.com&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-18 23:38:14 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-18 23:47:59 initiator_id=9311252103&pan_number=FNAPD9530A&mobile=8868939576&first_name=PUNA&last_name=DEVI&email=manojkumar@gmail.com&residence_address=%7B%22line%22%3A%22Armarajat+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1963-09-01&shop_name=aws
+
+2021-06-18 23:48:03 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-18 23:50:08 initiator_id=9311252103&pan_number=FNAPD9530A&mobile=8868939576&first_name=PUNA&last_name=DEVI&email=manojkumar@gmail.com&residence_address=%7B%22line%22%3A%22Armarajat+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1963-09-01&shop_name=aws
+
+2021-06-18 23:50:10 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-18 23:50:23 initiator_id=9311252103&pan_number=EEUPK4371G&mobile=8449533462&first_name=Munish&last_name=Kumar&email=munishchandra86@gmail.com&residence_address=%7B%22line%22%3A%22Rampur%22%2C%22city%22%3A%22Rampur%22%2C%22state%22%3A%22Uttarakhand%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22Rampur%22%2C%22area%22%3A%22Rampur%22%7D&dob=1994-10-05&shop_name=Mumesh
+
+2021-06-18 23:50:26 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-18 23:50:46 initiator_id=9311252103&pan_number=EEUPK4371G&mobile=8449533462&first_name=Munish&last_name=Kumar&email=munishchandra86@gmail.com&residence_address=%7B%22line%22%3A%22Rampur%22%2C%22city%22%3A%22Rampur%22%2C%22state%22%3A%22Uttarakhand%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22Rampur%22%2C%22area%22%3A%22Rampur%22%7D&dob=1994-10-05&shop_name=Mumesh
+
+2021-06-18 23:50:51 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-18 23:58:19 initiator_id=9311252103&pan_number=FNAPD9530H&mobile=8868939576&first_name=PUNA&last_name=DEVI&email=manojkumar@gmail.com&residence_address=%7B%22line%22%3A%22ARMARAJAT+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1963-09-01&shop_name=AWS
+
+2021-06-18 23:58:24 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-18 23:58:55 initiator_id=9311252103&pan_number=FNAPD9530A&mobile=8868939576&first_name=PUNA&last_name=DEVI&email=manojkumar@gmail.com&residence_address=%7B%22line%22%3A%22ARMARAJAT+FIROZABAD%22%2C%22city%22%3A%22FIROZABAD%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22FIROZABAD%22%2C%22area%22%3A%22FIROZABAD%22%7D&dob=1963-09-01&shop_name=AWS
+
+2021-06-18 23:59:00 {"response_status_id":1,"response_type_id":1253,"message":"PAN verification fail","status":1253}
+
+2021-06-22 18:43:32 initiator_id=9311252103&pan_number=MVVPS3333J&mobile=9897091147&first_name=udal&last_name= singh	&email=udals510@gmail.com&residence_address=%7B%22line%22%3A%22MADAIYA+LOKE+BHADAN+FIROZABAD%22%2C%22city%22%3A%22Firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22Firozabad%22%2C%22area%22%3A%22MADAIYA+LOKE+BHADAN+FIROZABAD%22%7D&dob=1988-06-15&shop_name=aws
+
+2021-06-22 18:43:32 {"response_status_id":-1,"data":{"user_code":"18821107","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-23 11:08:00 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:08:00 {"message":"No key for Response"}
+
+2021-06-23 11:08:18 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:08:19 {"message":"No key for Response"}
+
+2021-06-23 11:08:21 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:08:21 {"message":"No key for Response"}
+
+2021-06-23 11:08:27 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:08:27 {"message":"No key for Response"}
+
+2021-06-23 11:08:30 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:08:30 {"message":"No key for Response"}
+
+2021-06-23 11:14:06 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:14:06 {"message":"No key for Response"}
+
+2021-06-23 11:15:47 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:15:47 {"message":"No key for Response"}
+
+2021-06-23 11:16:32 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:16:32 {"message":"No key for Response"}
+
+2021-06-23 11:16:36 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:16:36 {"message":"No key for Response"}
+
+2021-06-23 11:16:40 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:16:40 {"message":"No key for Response"}
+
+2021-06-23 11:16:48 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:16:48 {"message":"No key for Response"}
+
+2021-06-23 11:16:52 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:16:52 {"message":"No key for Response"}
+
+2021-06-23 11:16:54 initiator_id=9311252103&pan_number=&mobile=&first_name=Munish&last_name=kumar&email=&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-23 11:16:54 {"message":"No key for Response"}
+
+2021-06-23 11:35:31 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 11:35:31 {"message":"No key for Response"}
+
+2021-06-23 11:35:38 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 11:35:38 {"message":"No key for Response"}
+
+2021-06-23 12:25:11 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 12:25:12 {"message":"No key for Response"}
+
+2021-06-23 12:25:30 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 12:25:30 {"message":"No key for Response"}
+
+2021-06-23 12:25:37 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 12:25:37 {"message":"No key for Response"}
+
+2021-06-23 12:26:18 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 12:26:19 {"message":"No key for Response"}
+
+2021-06-23 12:26:26 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 12:26:26 {"message":"No key for Response"}
+
+2021-06-23 12:32:46 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 12:32:46 {"message":"No key for Response"}
+
+2021-06-23 16:26:35 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 16:26:35 {"message":"No key for Response"}
+
+2021-06-23 16:26:51 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 16:26:51 {"message":"No key for Response"}
+
+2021-06-23 16:27:04 initiator_id=9311252103&pan_number=&mobile=&first_name=Mithlesh&last_name=devi&email=&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=AWS
+
+2021-06-23 16:27:04 {"message":"No key for Response"}
+
+2021-06-23 21:49:23 initiator_id=9311252103&pan_number=DYJPM4545L&mobile=9720045423&first_name=Mithlesh&last_name=devi&email=mithleshdevi9720045423@gmail.com&residence_address=%7B%22line%22%3A%22chhota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1990-08-30&shop_name=aws
+
+2021-06-23 21:49:27 {"response_status_id":-1,"data":{"user_code":"18821133","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-23 21:49:28 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821133","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-24 11:23:35 initiator_id=9311252103&pan_number=FNAPD9530A&mobile=8868939576&first_name=puna&last_name=devi&email=manojkumar@gmail.com&residence_address=%7B%22line%22%3A%22Armarajat+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1963-09-01&shop_name=aws
+
+2021-06-24 11:23:37 {"response_status_id":-1,"data":{"user_code":"18821134","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-24 11:23:38 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821134","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-24 11:28:13 initiator_id=9311252103&pan_number=EEUPK4371G&mobile=8449533462&first_name=Munish&last_name=kumar&email=munishchandra86@gmail.com&residence_address=%7B%22line%22%3A%22khanpur+jadid+rampur%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244921%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1994-05-10&shop_name=aws
+
+2021-06-24 11:28:15 {"response_status_id":-1,"data":{"user_code":"18821135","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-24 11:28:17 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821135","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-24 11:57:20 initiator_id=9311252103&pan_number=CNSPD2204G&mobile=9758594444&first_name=Sadhana&last_name=devi&email=santoshskb308@gmail.com&residence_address=%7B%22line%22%3A%22Nasirpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1989-01-01&shop_name=aws
+
+2021-06-24 11:57:22 {"response_status_id":-1,"data":{"user_code":"18821136","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-24 11:57:23 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821136","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-24 13:25:12 initiator_id=9311252103&pan_number=DDGPS9623K&mobile=9931943281&first_name=Parimal&last_name=kumar&email=parimalk69@gmail.com&residence_address=%7B%22line%22%3A%22graam+tahkar+charkapathar+jamui+sono+bihar%22%2C%22city%22%3A%22jamui%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22811314%22%2C%22district%22%3A%22jamui%22%2C%22area%22%3A%22jamui%22%7D&dob=1995-03-16&shop_name=aws
+
+2021-06-24 13:25:14 {"response_status_id":-1,"data":{"user_code":"18821137","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-24 13:25:16 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821137","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-24 16:36:52 initiator_id=9311252103&pan_number=IYFPK6898K&mobile=9547976430&first_name=Navinkumar rameshbhai&last_name=kachhua&email=kachuanavin@gmail.com&residence_address=%7B%22line%22%3A%22mali+was+vadia+banaskantha+deodar+gujarat%22%2C%22city%22%3A%22deodar%22%2C%22state%22%3A%22Gujarat%22%2C%22pincode%22%3A%22385330%22%2C%22district%22%3A%22deodar%22%2C%22area%22%3A%22deodar%22%7D&dob=1995-01-01&shop_name=aws
+
+2021-06-24 16:36:53 {"response_status_id":-1,"data":{"user_code":"99136666","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-24 16:40:39 initiator_id=9311252103&pan_number=IYFPK6898K&mobile=7258932146&first_name=Navinkumar rameshbhai&last_name=kachhua&email=kachuanavin@gmail.com&residence_address=%7B%22line%22%3A%22mali+was+vadia+banaskantha+deodar+gujarat%22%2C%22city%22%3A%22deodar%22%2C%22state%22%3A%22Gujarat%22%2C%22pincode%22%3A%22385330%22%2C%22district%22%3A%22deodar%22%2C%22area%22%3A%22deodar%22%7D&dob=1995-01-01&shop_name=aws
+
+2021-06-24 16:40:44 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-06-24 17:05:20 initiator_id=9311252103&pan_number=DSQPK1893G&mobile=7258932146&first_name=Kailash kumar chandamal&last_name=soni&email=kachuanavin@gmail.com&residence_address=%7B%22line%22%3A%22Austmanagal+complex+shahibaug+ahmedabad+gujarat%22%2C%22city%22%3A%22ahmedabad%22%2C%22state%22%3A%22Gujarat%22%2C%22pincode%22%3A%22380004%22%2C%22district%22%3A%22ahmedabad%22%2C%22area%22%3A%22ahmedabad%22%7D&dob=1987-07-21&shop_name=aws
+
+2021-06-24 17:05:22 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-06-25 10:46:27 initiator_id=9311252103&pan_number=DSQPK1893G&mobile=7258932146&first_name=Kailash kumar chandamal&last_name=soni&email=kachuanavin@gmail.com&residence_address=%7B%22line%22%3A%22austmanagal+complex+shahibaug+ahmedabad+gujarat%22%2C%22city%22%3A%22ahmedabad%22%2C%22state%22%3A%22Gujarat%22%2C%22pincode%22%3A%22380004%22%2C%22district%22%3A%22ahmedabad%22%2C%22area%22%3A%22ahmedabad%22%7D&dob=1987-07-21&shop_name=aws
+
+2021-06-25 10:46:28 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-06-28 11:25:09 initiator_id=9311252103&pan_number=BQQPS0549M&mobile=9720045423&first_name=Dharamvir&last_name=singh&email=mithleshdevi9720045423@gmail.com&residence_address=%7B%22line%22%3A%22chota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1980-05-02&shop_name=aws
+
+2021-06-28 11:25:11 {"response_status_id":-1,"data":{"user_code":"18821133","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-28 11:27:00 initiator_id=9311252103&pan_number=BQQPS0549M&mobile=7500866005&first_name=Dharamvir&last_name=singh&email=mithleshdevi9720045423@gmail.com&residence_address=%7B%22line%22%3A%22chota+ukharra+rajpur+chungi+agra%22%2C%22city%22%3A%22agra%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22282001%22%2C%22district%22%3A%22agra%22%2C%22area%22%3A%22agra%22%7D&dob=1980-05-02&shop_name=aws
+
+2021-06-28 11:27:02 {"response_status_id":-1,"data":{"user_code":"18821139","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-28 11:27:04 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821139","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-28 14:36:21 initiator_id=9311252103&pan_number=IPUPK1139B&mobile=9120484363&first_name=Ambrish&last_name=kumar&email=umeshrao57@gmail.com&residence_address=%7B%22line%22%3A%22bamhour+mubarakpur+azamgarh%22%2C%22city%22%3A%22azamgarh%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22276406%22%2C%22district%22%3A%22azamgarh%22%2C%22area%22%3A%22azamgarh%22%7D&dob=2001-04-22&shop_name=aws
+
+2021-06-28 14:36:23 {"response_status_id":-1,"data":{"user_code":"15232512","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-28 14:42:10 initiator_id=9311252103&pan_number=IPUPK1139B&mobile=9956703745&first_name=Ambrish&last_name=kumar&email=umeshrao57@gmail.com&residence_address=%7B%22line%22%3A%22bamhour+mubarakpur+azamgarh%22%2C%22city%22%3A%22azamgarh%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22276406%22%2C%22district%22%3A%22azamgarh%22%2C%22area%22%3A%22azamgarh%22%7D&dob=2001-04-22&shop_name=aws
+
+2021-06-28 14:42:12 {"response_status_id":-1,"data":{"user_code":"18821140","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-28 14:42:14 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821140","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-29 13:29:06 initiator_id=9311252103&pan_number=BAPPC4213B&mobile=9415997280&first_name=Vasudev sharan&last_name=chaturvedi&email=alokkumarvns9@gmail.com&residence_address=%7B%22line%22%3A%22paranapur+chaubeypur+varanasi%22%2C%22city%22%3A%22varanasi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22221104%22%2C%22district%22%3A%22varanasi%22%2C%22area%22%3A%22varanasi%22%7D&dob=1975-11-02&shop_name=aws
+
+2021-06-29 13:29:06 {"response_status_id":-1,"data":{"user_code":"18821125","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-29 13:30:09 initiator_id=9311252103&pan_number=BAPPC4213B&mobile=6390712905&first_name=Vasudev sharan&last_name=chaturvedi&email=alokkumarvns9@gmail.com&residence_address=%7B%22line%22%3A%22paranapur+chaubeypur+varanasi%22%2C%22city%22%3A%22varanasi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22221104%22%2C%22district%22%3A%22varanasi%22%2C%22area%22%3A%22varanasi%22%7D&dob=1975-11-02&shop_name=aws
+
+2021-06-29 13:30:11 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-06-29 13:46:00 initiator_id=9311252103&pan_number=ATLPY6919L&mobile=6395455344&first_name=Shipra&last_name=yadav&email=shiprayadav906@gmail.com&residence_address=%7B%22line%22%3A%22kaurara+road+khemganj+sirsaganj+firozabad%22%2C%22city%22%3A%22sirsaganj%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22205151%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22sirsaganj%22%7D&dob=1993-07-01&shop_name=aws
+
+2021-06-29 13:46:00 {"response_status_id":1,"data":{"initiator_id":""},"response_type_id":1301,"message":"Not a valid pincode","status":1301}
+
+2021-06-29 13:46:30 initiator_id=9311252103&pan_number=ATLPY6919L&mobile=6395455344&first_name=Shipra&last_name=yadav&email=shiprayadav906@gmail.com&residence_address=%7B%22line%22%3A%22kaurara+road+khemganj+sirsaganj+firozabad%22%2C%22city%22%3A%22sirsaganj%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22sirsaganj%22%7D&dob=1993-07-01&shop_name=aws
+
+2021-06-29 13:46:34 {"response_status_id":-1,"data":{"user_code":"18821141","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-29 13:46:35 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821141","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-30 11:01:37 initiator_id=9311252103&pan_number=EZRPM3591J&mobile=9897587187&first_name=Minakshi&last_name=kumari&email=dasendra@gmail.com&residence_address=%7B%22line%22%3A%22nagla+lekhraj+bharaul+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2000-05-28&shop_name=aws
+
+2021-06-30 11:01:39 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-06-30 11:04:38 initiator_id=9311252103&pan_number=EZRPM3591J&mobile=9897587187&first_name=kumari&last_name=minakshi&email=dasendra@gmail.com&residence_address=%7B%22line%22%3A%22nagla+lekhraj+bharaul+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2000-05-28&shop_name=aws
+
+2021-06-30 11:04:38 {"response_status_id":-1,"data":{"user_code":"18821142","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-30 11:04:39 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821142","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-30 11:14:49 initiator_id=9311252103&pan_number=FGDPK1397A&mobile=8755865582&first_name=Padam&last_name=kumar&email=padamkumar87@gmail.com&residence_address=%7B%22line%22%3A%22kailash+nagar+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1987-02-17&shop_name=aws
+
+2021-06-30 11:14:51 {"response_status_id":-1,"data":{"user_code":"18821143","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-30 11:14:52 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821143","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-06-30 11:46:26 initiator_id=9311252103&pan_number=FGDPK1397A&mobile=8755865582&first_name=padam&last_name=kumari&email=padamkumar87@gmail.com&residence_address=%7B%22line%22%3A%22kailash+nagar+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1987-02-17&shop_name=aws
+
+2021-06-30 11:46:26 {"response_status_id":-1,"data":{"user_code":"18821143","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-30 11:49:27 initiator_id=9311252103&pan_number=FGDPK1397A&mobile=&first_name=padam&last_name=kumari&email=padamkumar87@gmail.com&residence_address=%7B%22line%22%3A%22kailash+nagar+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1987-02-17&shop_name=aws
+
+2021-06-30 11:49:27 {"message":"No key for Response"}
+
+2021-06-30 11:49:52 initiator_id=9311252103&pan_number=FGDPK1397A&mobile=&first_name=padam&last_name=kumari&email=padamkumar87@gmail.com&residence_address=%7B%22line%22%3A%22kailash+nagar+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1987-02-17&shop_name=aws
+
+2021-06-30 11:49:53 {"message":"No key for Response"}
+
+2021-06-30 11:50:11 initiator_id=9311252103&pan_number=FGDPK1397A&mobile=&first_name=padam&last_name=kumari&email=padamkumar87@gmail.com&residence_address=%7B%22line%22%3A%22kailash+nagar+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1987-02-17&shop_name=aws
+
+2021-06-30 11:50:11 {"message":"No key for Response"}
+
+2021-06-30 13:37:22 initiator_id=9311252103&pan_number=DDHPR6121L&mobile=9897091147&first_name=Rajkumari&last_name=kumari&email=udals510@gmail.com&residence_address=%7B%22line%22%3A%22madaiya+loke+bhadan+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1993-01-01&shop_name=aws
+
+2021-06-30 13:37:25 {"response_status_id":-1,"data":{"user_code":"18821107","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-06-30 13:38:24 initiator_id=9311252103&pan_number=DDHPR6121L&mobile=9837424723&first_name=Rajkumari&last_name=kumari&email=udals510@gmail.com&residence_address=%7B%22line%22%3A%22madaiya+loke+bhadan+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1993-01-01&shop_name=aws
+
+2021-06-30 13:38:32 {"response_status_id":-1,"data":{"user_code":"18821144","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-06-30 13:38:33 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821144","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-07-02 11:33:39 initiator_id=9311252103&pan_number=JWFPK2016C&mobile=9905234392&first_name=Priyenandan&last_name=kumar&email=priyenandankumarv@gmail.com&residence_address=%7B%22line%22%3A%22khaujurbanna+ward+no.01+alani+salkhua+bazar+saharsa+bihar%22%2C%22city%22%3A%22saharsa%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22852126%22%2C%22district%22%3A%22saharsa%22%2C%22area%22%3A%22saharsa%22%7D&dob=2003-05-02&shop_name=aws
+
+2021-07-02 11:33:47 {"response_status_id":-1,"data":{"user_code":"18821146","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-07-02 11:33:48 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821146","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-07-05 15:11:05 initiator_id=9311252103&pan_number=BGDPL6225J&mobile=9634957629&first_name=Puran&last_name=lal&email=rakeshmaurya87615@gmail.com&residence_address=%7B%22line%22%3A%22darav+nagar+budaun+kumargaon+%22%2C%22city%22%3A%22budaun%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22243601%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22budaun%22%7D&dob=1964-01-01&shop_name=aws
+
+2021-07-05 15:11:07 {"response_status_id":-1,"data":{"user_code":"15231993","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-07-05 15:16:46 initiator_id=9311252103&pan_number=BGDPL6225J&mobile=&first_name=Puran&last_name=lal&email=rakeshmaurya87615@gmail.com&residence_address=%7B%22line%22%3A%22darav+nagar+budaun+kumargaon+%22%2C%22city%22%3A%22budaun%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22243601%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22budaun%22%7D&dob=1964-01-01&shop_name=aws
+
+2021-07-05 15:16:46 {"message":"No key for Response"}
+
+2021-07-05 15:19:58 initiator_id=9311252103&pan_number=BGDPL6225J&mobile=9634957629&first_name=Puran&last_name=lal&email=rakeshmaurya87615@gmail.com&residence_address=%7B%22line%22%3A%22darav+nagar+budaun+kumargaon+%22%2C%22city%22%3A%22budaun%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22243601%22%2C%22district%22%3A%22budaun%22%2C%22area%22%3A%22budaun%22%7D&dob=1964-01-01&shop_name=aws
+
+2021-07-05 15:19:58 {"response_status_id":-1,"data":{"user_code":"15231993","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-07-05 15:23:18 initiator_id=9311252103&pan_number=BGDPL6225J&mobile=7500154868&first_name=Puran&last_name=lal&email=rakeshmaurya87615@gmail.com&residence_address=%7B%22line%22%3A%22darav+nagar+budaun+kumargaon+%22%2C%22city%22%3A%22budaun%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22243601%22%2C%22district%22%3A%22budaun%22%2C%22area%22%3A%22budaun%22%7D&dob=1964-01-01&shop_name=aws
+
+2021-07-05 15:23:20 {"response_status_id":-1,"data":{"user_code":"18821147","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-07-05 15:23:21 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821147","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-07-06 11:26:24 initiator_id=9311252103&pan_number=EKMPP7494H&mobile=9719761083&first_name=Ramesh&last_name=pal&email=rameshgangwar047@gmail.com&residence_address=%7B%22line%22%3A%22ramnagar+loha+rampur+malik%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22243701%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1979-01-01&shop_name=aws
+
+2021-07-06 11:26:24 {"response_status_id":1,"data":{"initiator_id":""},"response_type_id":1301,"message":"Not a valid pincode","status":1301}
+
+2021-07-06 11:27:31 initiator_id=9311252103&pan_number=EKMPP7494H&mobile=9719761083&first_name=Ramesh&last_name=pal&email=rameshgangwar047@gmail.com&residence_address=%7B%22line%22%3A%22ramnagar+loha+rampur+malik%22%2C%22city%22%3A%22rampur%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22244901%22%2C%22district%22%3A%22rampur%22%2C%22area%22%3A%22rampur%22%7D&dob=1979-01-01&shop_name=aws
+
+2021-07-06 11:27:35 {"response_status_id":-1,"data":{"user_code":"18821149","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-07-06 11:27:37 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821149","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-07-06 16:37:05 initiator_id=9311252103&pan_number=FLFPS9146L&mobile=9893838438&first_name=Parmanand&last_name=sharma&email=swarajbhartischoolghansoda@gmail.com&residence_address=%7B%22line%22%3A%22gram+ghansoda+teh+gulana+mangalaj+shajapur++%22%2C%22city%22%3A%22shajapur%22%2C%22state%22%3A%22Madhya+Pradesh%22%2C%22pincode%22%3A%22465227%22%2C%22district%22%3A%22shajapur%22%2C%22area%22%3A%22shajapur%22%7D&dob=1986-10-17&shop_name=aws
+
+2021-07-06 16:37:06 {"response_status_id":-1,"data":{"user_code":"15232111","initiator_id":"9311252103"},"response_type_id":1307,"message":"This user already exist","status":0}
+
+2021-07-06 16:39:21 initiator_id=9311252103&pan_number=FLFPS9146L&mobile=7898989968&first_name=Parmanand&last_name=sharma&email=swarajbhartischoolghansoda@gmail.com&residence_address=%7B%22line%22%3A%22gram+ghansoda+teh+gulana+mangalaj+shajapur++%22%2C%22city%22%3A%22shajapur%22%2C%22state%22%3A%22Madhya+Pradesh%22%2C%22pincode%22%3A%22465227%22%2C%22district%22%3A%22shajapur%22%2C%22area%22%3A%22shajapur%22%7D&dob=1986-10-17&shop_name=aws
+
+2021-07-06 16:39:25 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-07-07 10:36:37 initiator_id=9311252103&pan_number=BXZPR3970F&mobile=7898989968&first_name=Bhanwar &last_name=singh&email=parmanandsharma1412@gmail.com&residence_address=%7B%22line%22%3A%22Ghansoda+teh+gulana+mangalaj+shajapur+%22%2C%22city%22%3A%22shajapur%22%2C%22state%22%3A%22Madhya+Pradesh%22%2C%22pincode%22%3A%22465227%22%2C%22district%22%3A%22shajapur%22%2C%22area%22%3A%22shajapur%22%7D&dob=1994-10-11&shop_name=aws
+
+2021-07-07 10:36:39 {"response_status_id":-1,"data":{"user_code":"18821150","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-07-07 10:36:40 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821150","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-07-07 12:29:30 initiator_id=9311252103&pan_number=DDWPG6675R&mobile=9165907102&first_name=Jaya&last_name=gujar&email=parmugurjar1111@gmail.com&residence_address=%7B%22line%22%3A%22Mirjapura+khargone%22%2C%22city%22%3A%22mirjapur%22%2C%22state%22%3A%22Madhya+Pradesh%22%2C%22pincode%22%3A%22451224%22%2C%22district%22%3A%22mirjapur%22%2C%22area%22%3A%22mirjapur%22%7D&dob=1997-04-10&shop_name=aws
+
+2021-07-07 12:29:33 {"response_status_id":-1,"data":{"user_code":"18821151","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-07-07 12:29:34 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821151","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-07-07 13:04:06 initiator_id=9311252103&pan_number=ANKPY4269L&mobile=7017440341&first_name=Rishi&last_name=kumar&email=rishiyadav50503@gmail.com&residence_address=%7B%22line%22%3A%22Rasulpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1992-07-01&shop_name=aws
+
+2021-07-07 13:04:08 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-07-07 13:04:54 initiator_id=9311252103&pan_number=ANKPY4269L&mobile=7017440341&first_name=Rishi&last_name=kumar&email=rishiyadav50503@gmail.com&residence_address=%7B%22line%22%3A%22Rasulpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1992-07-01&shop_name=aws
+
+2021-07-07 13:04:54 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-07-07 13:05:21 initiator_id=9311252103&pan_number=ANKPY4269L&mobile=7017440341&first_name=rishi&last_name=kumar&email=rishiyadav50503@gmail.com&residence_address=%7B%22line%22%3A%22Rasulpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1992-07-01&shop_name=aws
+
+2021-07-07 13:05:22 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-07-07 13:05:58 initiator_id=9311252103&pan_number=ANKPY4269L&mobile=7017440341&first_name=Rishi&last_name=kumar&email=rishiyadav50503@gmail.com&residence_address=%7B%22line%22%3A%22Rasulpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1992-07-01&shop_name=aws
+
+2021-07-07 13:05:58 {"response_status_id":1,"response_type_id":1428,"message":"Name not matched","status":1428}
+
+2021-07-07 13:09:16 initiator_id=9311252103&pan_number=ANKPY4269L&mobile=7017440341&first_name=Rishi&last_name=yadav&email=rishiyadav50503@gmail.com&residence_address=%7B%22line%22%3A%22rasulpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1992-07-01&shop_name=aws
+
+2021-07-07 13:09:16 {"response_status_id":-1,"data":{"user_code":"18821152","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-07-07 13:09:17 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821152","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-07-08 20:33:43 initiator_id=9311252103&pan_number=BPOPN0446K&mobile=7088919693&first_name=Braj&last_name=nandan&email=nandanrajput06051999@gmail.com&residence_address=%7B%22line%22%3A%22indumai+makhanpur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1997-01-01&shop_name=aws
+
+2021-07-08 20:33:50 {"response_status_id":-1,"data":{"user_code":"18821153","initiator_id":"9311252103"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-07-08 20:33:51 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"18821153","initiator_id":"9311252103","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-07-10 13:06:28 initiator_id=9311252103&pan_number=ISVPS4518E&mobile=7819816408&first_name=Dharmendra&last_name=singh&email=risikpratapsingh63725@gmail.com&residence_address=%7B%22line%22%3A%22padriya+pratappur+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1977-01-07&shop_name=aws
+
+2021-07-10 13:06:30 {"response_status_id":-1,"response_type_id":895,"message":"Pan Number already exists with another merchant","status":0}
+
+2021-07-18 21:55:18 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Dabrai+donkeli+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2000-07-24&shop_name=aws
+
+2021-07-18 21:55:19 null
+
+2021-07-18 21:55:25 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Dabrai+donkeli+firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=2000-07-24&shop_name=aws
+
+2021-07-18 21:55:26 null
+
+2021-07-19 11:55:35 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Delhi%22%2C%22city%22%3A%22Delhi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22DEFFFF%22%7D&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 11:55:36 null
+
+2021-07-19 11:57:52 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Delhi%22%2C%22city%22%3A%22Delhi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22DEFFFF%22%7D&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 11:57:53 null
+
+2021-07-19 11:58:17 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Delhi%22%2C%22city%22%3A%22Delhi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22DEFFFF%22%7D&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 11:58:18 null
+
+2021-07-19 11:58:26 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Delhi%22%2C%22city%22%3A%22Delhi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22DEFFFF%22%7D&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 11:58:27 null
+
+2021-07-19 11:58:45 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Delhi%22%2C%22city%22%3A%22Delhi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22DEFFFF%22%7D&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 11:58:46 null
+
+2021-07-19 11:59:45 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Delhi%22%2C%22city%22%3A%22Delhi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22DEFFFF%22%7D&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 11:59:46 null
+
+2021-07-19 12:01:11 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Delhi%22%2C%22city%22%3A%22Delhi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22DEFFFF%22%7D&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 12:01:12 null
+
+2021-07-19 12:01:47 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Delhi%22%2C%22city%22%3A%22Delhi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22DEFFFF%22%7D&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 12:01:48 null
+
+2021-07-19 12:04:58 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Delhi%22%2C%22city%22%3A%22Delhi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22DEFFFF%22%7D&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 12:04:59 false
+
+2021-07-19 12:13:51 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22Delhi%22%2C%22city%22%3A%22Delhi%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22DEFFFF%22%7D&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 12:13:52 false
+
+2021-07-19 12:14:44 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address={"line":"Delhi","city":"Delhi","state":"Uttar Pradesh","pincode":"283203","district":"firozabad","area":"DEFFFF"}&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 12:14:45 false
+
+2021-07-19 12:15:40 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address={"line":"Delhi","city":"Delhi","state":"Uttar Pradesh","pincode":"283203","district":"firozabad","area":"DEFFFF"}&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 12:15:41 false
+
+2021-07-19 12:17:01 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address={"line":"Delhi","city":"Delhi","state":"Uttar Pradesh","pincode":"283203","district":"firozabad","area":"DEFFFF"}&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 12:17:02 null
+
+2021-07-19 12:17:32 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address={"line":"Delhi","city":"Delhi","state":"Uttar Pradesh","pincode":"283203","district":"firozabad","area":"DEFFFF"}&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 12:17:55 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address={"line":"Delhi","city":"Delhi","state":"Uttar Pradesh","pincode":"283203","district":"firozabad","area":"DEFFFF"}&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 12:17:56 null
+
+2021-07-19 12:31:49 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=Lalit&last_name=kumar&email=lalitkushwah@gmail.com&residence_address={"line":"Delhi","city":"Delhi","state":"Uttar Pradesh","pincode":"283203","district":"firozabad","area":"DEFFFF"}&dob=2021-07-14&shop_name=DSDF
+
+2021-07-19 12:31:50 null
+
+2021-07-19 20:44:07 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=dfdgfd&last_name=fdggf&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22gfdfg%22%2C%22city%22%3A%22fgdfg%22%2C%22state%22%3A%22Delhi%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22dfgdf%22%2C%22area%22%3A%22fgf%22%7D&dob=2003-01-09&shop_name=fdfdg
+
+2021-07-19 20:44:08 null
+
+2021-07-19 20:48:24 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=dfdgfd&last_name=fdggf&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22gfdfg%22%2C%22city%22%3A%22fgdfg%22%2C%22state%22%3A%22Delhi%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22dfgdf%22%2C%22area%22%3A%22fgf%22%7D&dob=2003-01-09&shop_name=fdfdg
+
+2021-07-19 20:48:25 null
+
+2021-07-19 20:51:25 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=dfdgfd&last_name=fdggf&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22gfdfg%22%2C%22city%22%3A%22fgdfg%22%2C%22state%22%3A%22Delhi%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22dfgdf%22%2C%22area%22%3A%22fgf%22%7D&dob=2003-01-09&shop_name=fdfdg
+
+2021-07-19 20:51:26 null
+
+2021-07-19 20:54:29 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=dfdgfd&last_name=fdggf&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22gfdfg%22%2C%22city%22%3A%22fgdfg%22%2C%22state%22%3A%22Delhi%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22dfgdf%22%2C%22area%22%3A%22fgf%22%7D&dob=2003-01-09&shop_name=fdfdg
+
+2021-07-19 20:54:30 null
+
+2021-07-19 20:57:58 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=dfdgfd&last_name=fdggf&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22gfdfg%22%2C%22city%22%3A%22fgdfg%22%2C%22state%22%3A%22Delhi%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22dfgdf%22%2C%22area%22%3A%22fgf%22%7D&dob=2003-01-09&shop_name=fdfdg
+
+2021-07-19 20:57:59 null
+
+2021-07-19 21:03:09 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:03:10 null
+
+2021-07-19 21:04:39 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:04:57 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:05:38 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:05:59 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:06:14 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:06:37 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:06:38 null
+
+2021-07-19 21:07:01 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:07:02 null
+
+2021-07-19 21:07:28 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:07:29 null
+
+2021-07-19 21:08:07 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:08:09 null
+
+2021-07-19 21:17:39 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:17:41 null
+
+2021-07-19 21:18:42 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:18:44 null
+
+2021-07-19 21:19:08 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:19:10 null
+
+2021-07-19 21:20:58 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:21:00 null
+
+2021-07-19 21:24:51 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:24:53 null
+
+2021-07-19 21:25:26 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:25:28 null
+
+2021-07-19 21:27:35 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:27:37 null
+
+2021-07-19 21:28:50 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:29:35 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:30:19 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:33:22 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:34:03 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:34:31 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:35:11 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:35:39 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:36:53 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:37:06 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:39:12 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:40:01 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:41:22 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:41:23 null
+
+2021-07-19 21:42:33 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=fggt&last_name=rgtetr&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22trtet%22%2C%22city%22%3A%22trrt%22%2C%22state%22%3A%22Bihar%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22tret%22%2C%22area%22%3A%22trret%22%7D&dob=2021-07-06&shop_name=rteert
+
+2021-07-19 21:42:34 null
+
+2021-07-20 20:45:18 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fgdf&last_name=fdgdg&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22fdgdfgd%22%2C%22city%22%3A%22dfgddg%22%2C%22state%22%3A%22Karnataka%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22fdgdg%22%2C%22area%22%3A%22dgdg%22%7D&dob=2021-07-08&shop_name=gddffgd
+
+2021-07-20 20:45:19 null
+
+2021-07-20 20:46:11 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fgdf&last_name=fdgdg&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22fdgdfgd%22%2C%22city%22%3A%22dfgddg%22%2C%22state%22%3A%22Karnataka%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22fdgdg%22%2C%22area%22%3A%22dgdg%22%7D&dob=2021-07-08&shop_name=gddffgd
+
+2021-07-20 20:46:12 null
+
+2021-07-20 20:47:08 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fgdf&last_name=fdgdg&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22fdgdfgd%22%2C%22city%22%3A%22dfgddg%22%2C%22state%22%3A%22Karnataka%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22fdgdg%22%2C%22area%22%3A%22dgdg%22%7D&dob=2021-07-08&shop_name=gddffgd
+
+2021-07-20 20:47:09 null
+
+2021-07-20 20:47:28 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fgdf&last_name=fdgdg&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22fdgdfgd%22%2C%22city%22%3A%22dfgddg%22%2C%22state%22%3A%22Karnataka%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22fdgdg%22%2C%22area%22%3A%22dgdg%22%7D&dob=2021-07-08&shop_name=gddffgd
+
+2021-07-20 20:47:29 null
+
+2021-07-20 20:47:48 initiator_id=9311252103&pan_number=HSXPK6266A&mobile=8532071919&first_name=fgdf&last_name=fdgdg&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22fdgdfgd%22%2C%22city%22%3A%22dfgddg%22%2C%22state%22%3A%22Karnataka%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22fdgdg%22%2C%22area%22%3A%22dgdg%22%7D&dob=2021-07-08&shop_name=gddffgd
+
+2021-07-20 20:47:49 null
+
+2021-07-23 23:26:02 initiator_id=7411111111&pan_number=HSXPK6266A&mobile=8532071919&first_name=sdsf&last_name=sdfsdf&email=lalitkushwah@gmail.com&residence_address=%7B%22line%22%3A%22sdfsdsdf%22%2C%22city%22%3A%22sdfsf%22%2C%22state%22%3A%22Arunachal+Pradesh%22%2C%22pincode%22%3A%22283203%22%2C%22district%22%3A%22sfdsdfd%22%2C%22area%22%3A%22sfdsdf%22%7D&dob=2021-06-30&shop_name=sdfsdf
+
+2021-07-23 23:26:03 {"response_status_id":-1,"data":{"user_code":"20310040","initiator_id":"7411111111"},"response_type_id":1290,"message":"User onboarding successfull","status":0}
+
+2021-07-23 23:26:04 {"response_status_id":0,"data":{"service_status_desc":"Activated","balance":"","user_code":"20310040","initiator_id":"7411111111","service_status":"1","service_code":"43","remarks":""},"response_type_id":1259,"message":"AePS Registration Successful","status":0}
+
+2021-07-25 21:26:23 initiator_id=7411111111&pan_number=gfcpk4357p&mobile=8287269692&first_name=rahul&last_name=kumar&email=rahulkumar3595.rk83@gmail.com&residence_address=%7B%22line%22%3A%22firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22382210%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1995-05-03&shop_name=ass
+
+2021-07-25 21:26:24 {"response_status_id":1,"response_type_id":1182,"message":"Please provide valid pan card","status":1182}
+
+2021-07-25 21:27:58 initiator_id=7411111111&pan_number=gfcpk4357p&mobile=8287269692&first_name=rahul&last_name=kumar&email=rahulkumar3595.rk83@gmail.com&residence_address=%7B%22line%22%3A%22firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22382210%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1995-05-03&shop_name=ass
+
+2021-07-25 21:27:58 {"response_status_id":1,"response_type_id":1182,"message":"Please provide valid pan card","status":1182}
+
+2021-07-25 21:28:26 initiator_id=7411111111&pan_number=gfcpk4357p&mobile=8287269692&first_name=rahul&last_name=kumar&email=rahulkumar3595.rk83@gmail.com&residence_address=%7B%22line%22%3A%22firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22382210%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1995-05-03&shop_name=ass
+
+2021-07-25 21:28:27 {"response_status_id":1,"response_type_id":1182,"message":"Please provide valid pan card","status":1182}
+
+2021-07-25 21:30:04 initiator_id=7411111111&pan_number=gfcpk4357p&mobile=8287269692&first_name=rahul&last_name=kumar&email=rahulkumar3595.rk83@gmail.com&residence_address=%7B%22line%22%3A%22firozabad%22%2C%22city%22%3A%22firozabad%22%2C%22state%22%3A%22Uttar+Pradesh%22%2C%22pincode%22%3A%22382210%22%2C%22district%22%3A%22firozabad%22%2C%22area%22%3A%22firozabad%22%7D&dob=1995-05-03&shop_name=ass
+
+2021-07-25 21:30:04 {"response_status_id":1,"response_type_id":1182,"message":"Please provide valid pan card","status":1182}
+
